@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\unrealeditor\\inc\\liark\\uht\\liarkgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\liarkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\unrealeditor\\development\\liark\\definitions.liark.h",
+            "c:\\projects\\unrealprojects\\liark\\liark\\source\\liark\\liarkgamemode.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\unrealeditor\\inc\\liark\\uht\\liarkgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
