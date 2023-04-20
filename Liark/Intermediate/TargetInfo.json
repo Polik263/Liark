@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Liark",
+			"Path": "C:\\Projects\\UnrealProjects\\Liark\\Liark\\Source\\Liark.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LiarkEditor",
+			"Path": "C:\\Projects\\UnrealProjects\\Liark\\Liark\\Source\\LiarkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
