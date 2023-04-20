@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\UnrealProjects\\Liark\\Liark\\Source\\Liark\\Liark.Build.cs",
+		"C:\\Projects\\UnrealProjects\\Liark\\Liark\\Source\\Liark.Target.cs",
+		"C:\\Projects\\UnrealProjects\\Liark\\Liark\\Source\\LiarkEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

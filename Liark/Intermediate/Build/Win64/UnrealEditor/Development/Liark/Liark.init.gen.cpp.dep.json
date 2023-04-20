@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\unrealeditor\\inc\\liark\\uht\\liark.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\liarkeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\unrealprojects\\liark\\liark\\intermediate\\build\\win64\\unrealeditor\\development\\liark\\definitions.liark.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
